@@ -3,5 +3,7 @@ install:
 language: node_js
 node_js:
   - "6"
-script:
+install:
+  - jquery
+script:  
   - npm test
