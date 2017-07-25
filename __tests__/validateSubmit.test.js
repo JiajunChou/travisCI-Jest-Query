@@ -1,4 +1,4 @@
-jest
+ jest
   .dontMock('fs')
   .dontMock('jquery');
 
